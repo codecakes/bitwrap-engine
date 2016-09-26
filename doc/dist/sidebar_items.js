@@ -1,0 +1,1 @@
+sidebarNodes={"exceptions":[],"extras":[{"id":"api-reference","title":"API Reference","headers":[]}],"modules":[{"id":"BitBox","title":"BitBox"},{"id":"BitBox.DSM","title":"BitBox.DSM","functions":[{"id":"exec_sm/3","anchor":"exec_sm/3"}]}],"protocols":[]}
