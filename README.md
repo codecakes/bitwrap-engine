@@ -22,3 +22,5 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
     end
     ```
 
+# bitwrap-engine
+A PoC deconstructed &amp; reimagined from a dsm perspective
